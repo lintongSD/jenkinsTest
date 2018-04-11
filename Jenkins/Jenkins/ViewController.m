@@ -20,7 +20,6 @@
     view.backgroundColor = [UIColor orangeColor];
     [self.view addSubview:view];
     
-    //ceshi
 }
 
 

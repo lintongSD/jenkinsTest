@@ -19,6 +19,8 @@
     UIView *view = [[UIView alloc] initWithFrame:CGRectMake(100, 200, 200, 100)];
     view.backgroundColor = [UIColor orangeColor];
     [self.view addSubview:view];
+    
+    //ceshi
 }
 
 
